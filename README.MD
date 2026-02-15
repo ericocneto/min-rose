@@ -4,8 +4,6 @@
 
 ## ✨ Overview
 
----
-
 ## 📦 Installation
 
 ### From the Marketplace
