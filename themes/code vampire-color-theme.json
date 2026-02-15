@@ -2,7 +2,7 @@
   "name": "code vampire",
   "colors": {
     "editor.background": "#1c1d26",
-    "editor.foreground": "#f8f8f2",
+    "editor.foreground": "#f2f2f8",
     "editorLineNumber.foreground": "#6272a4",
     "editorLineNumber.activeForeground": "#f8f8f2",
     "editorCursor.foreground": "#f8f8f2",
@@ -69,31 +69,45 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#6272a4"
+        "foreground": "#a49462"
       }
     },
     {
       "name": "String",
-      "scope": ["string", "constant.other.symbol", "constant.other.key"],
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "constant.other.key"
+      ],
       "settings": {
-        "foreground": "#f1fa8c"
+        "foreground": "#958cfa"
       }
     },
     {
       "name": "Keyword",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
       "settings": {
-        "foreground": "#ff79c6"
+        "foreground": "#79ffb2"
       }
     },
     {
       "name": "Operator",
-      "scope": ["keyword.operator", "punctuation"],
+      "scope": [
+        "keyword.operator",
+        "punctuation"
+      ],
       "settings": {
-        "foreground": "#ff79c6"
+        "foreground": "#79ffb2"
       }
     },
     {
@@ -105,14 +119,17 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#50fa7b"
+        "foreground": "#fa50cf"
       }
     },
     {
       "name": "Variable",
-      "scope": ["variable", "string constant.other.placeholder"],
+      "scope": [
+        "variable",
+        "string constant.other.placeholder"
+      ],
       "settings": {
-        "foreground": "#f8f8f2"
+        "foreground": "#f2f2f8"
       }
     },
     {
@@ -124,7 +141,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#8be9fd"
+        "foreground": "#fd9f8b"
       }
     },
     {
@@ -137,21 +154,26 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#bd93f9"
+        "foreground": "#cff993"
       }
     },
     {
       "name": "Tag",
-      "scope": ["entity.name.tag", "meta.tag"],
+      "scope": [
+        "entity.name.tag",
+        "meta.tag"
+      ],
       "settings": {
-        "foreground": "#ff79c6"
+        "foreground": "#79ffb2"
       }
     },
     {
       "name": "Attribute",
-      "scope": ["entity.other.attribute-name"],
+      "scope": [
+        "entity.other.attribute-name"
+      ],
       "settings": {
-        "foreground": "#50fa7b"
+        "foreground": "#fa50cf"
       }
     },
     {
@@ -162,58 +184,74 @@
         "support.other.module"
       ],
       "settings": {
-        "foreground": "#f8f8f2"
+        "foreground": "#f2f2f8"
       }
     },
     {
       "name": "Invalid",
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
-        "foreground": "#ff5555"
+        "foreground": "#55ffff"
       }
     },
     {
       "name": "Diff Added",
-      "scope": ["markup.inserted"],
+      "scope": [
+        "markup.inserted"
+      ],
       "settings": {
-        "foreground": "#50fa7b"
+        "foreground": "#fa50cf"
       }
     },
     {
       "name": "Diff Removed",
-      "scope": ["markup.deleted"],
+      "scope": [
+        "markup.deleted"
+      ],
       "settings": {
-        "foreground": "#ff5555"
+        "foreground": "#55ffff"
       }
     },
     {
       "name": "Diff Changed",
-      "scope": ["markup.changed"],
+      "scope": [
+        "markup.changed"
+      ],
       "settings": {
-        "foreground": "#ffb86c"
+        "foreground": "#6cb3ff"
       }
     },
     {
       "name": "Markup Bold",
-      "scope": ["markup.bold"],
+      "scope": [
+        "markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#ffb86c"
+        "foreground": "#6cb3ff"
       }
     },
     {
       "name": "Markup Italic",
-      "scope": ["markup.italic"],
+      "scope": [
+        "markup.italic"
+      ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffb86c"
+        "foreground": "#6cb3ff"
       }
     },
     {
       "name": "Markup Link",
-      "scope": ["string.other.link", "markup.underline.link"],
+      "scope": [
+        "string.other.link",
+        "markup.underline.link"
+      ],
       "settings": {
-        "foreground": "#8be9fd",
+        "foreground": "#fd9f8b",
         "fontStyle": "underline"
       }
     }
