@@ -8,7 +8,7 @@
 
 ### From the Marketplace
 
-1. Open VS Code or click <a href="#" target="\_blank">here</a>
+1. Open VS Code or click <a href="https://marketplace.visualstudio.com/items?itemName=EricoCordeiroNeto.min-rose" target="\_blank">here</a>
 2. Go to **Extensions**
 3. Search for: `Min Rosé`
 4. Click **Install**
