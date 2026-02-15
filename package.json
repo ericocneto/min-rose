@@ -1,6 +1,7 @@
 {
   "name": "min-rose",
   "publisher": "EricoCordeiroNeto",
+  "icon": "images/icon.png",
   "displayName": "Min Rosé",
   "description": "",
   "version": "1.0.0",
