@@ -1,6 +1,6 @@
 {
   "name": "Min Rosé",
-  "displayName": "minrose",
+  "displayName": "min-rose",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "minrose",
+        "label": "min-rose",
         "uiTheme": "vs-dark",
-        "path": "./themes/minrose.json"
+        "path": "./themes/min-rose.json"
       }
     ]
   }
