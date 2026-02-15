@@ -1,0 +1,21 @@
+{
+  "name": "code-vampire",
+  "displayName": "code-vampire",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "code vampire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code vampire-color-theme.json"
+      }
+    ]
+  }
+}
