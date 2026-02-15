@@ -14,5 +14,6 @@
 2. Go to **Extensions**
 3. Search for: `Min Rosé`
 4. Click **Install**
+5. Enjoy our theme ^^
 
 ---
