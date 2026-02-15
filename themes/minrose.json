@@ -1,5 +1,5 @@
 {
-  "name": "code vampire",
+  "name": "Code Vampire",
   "colors": {
     "editor.background": "#1a1624",
     "editor.foreground": "#f3f1f8",
@@ -69,10 +69,7 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#b3947a"
@@ -80,32 +77,21 @@
     },
     {
       "name": "String",
-      "scope": [
-        "string",
-        "constant.other.symbol",
-        "constant.other.key"
-      ],
+      "scope": ["string", "constant.other.symbol", "constant.other.key"],
       "settings": {
         "foreground": "#f1b07a"
       }
     },
     {
       "name": "Keyword",
-      "scope": [
-        "keyword",
-        "storage.type",
-        "storage.modifier"
-      ],
+      "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#b9a6e6"
       }
     },
     {
       "name": "Operator",
-      "scope": [
-        "keyword.operator",
-        "punctuation"
-      ],
+      "scope": ["keyword.operator", "punctuation"],
       "settings": {
         "foreground": "#b9a6e6"
       }
@@ -124,10 +110,7 @@
     },
     {
       "name": "Variable",
-      "scope": [
-        "variable",
-        "string constant.other.placeholder"
-      ],
+      "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         "foreground": "#f3f1f8"
       }
@@ -159,19 +142,14 @@
     },
     {
       "name": "Tag",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag"
-      ],
+      "scope": ["entity.name.tag", "meta.tag"],
       "settings": {
         "foreground": "#b9a6e6"
       }
     },
     {
       "name": "Attribute",
-      "scope": [
-        "entity.other.attribute-name"
-      ],
+      "scope": ["entity.other.attribute-name"],
       "settings": {
         "foreground": "#f2b47f"
       }
@@ -189,46 +167,35 @@
     },
     {
       "name": "Invalid",
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#f08aa0"
       }
     },
     {
       "name": "Diff Added",
-      "scope": [
-        "markup.inserted"
-      ],
+      "scope": ["markup.inserted"],
       "settings": {
         "foreground": "#cbb7f3"
       }
     },
     {
       "name": "Diff Removed",
-      "scope": [
-        "markup.deleted"
-      ],
+      "scope": ["markup.deleted"],
       "settings": {
         "foreground": "#f08aa0"
       }
     },
     {
       "name": "Diff Changed",
-      "scope": [
-        "markup.changed"
-      ],
+      "scope": ["markup.changed"],
       "settings": {
         "foreground": "#a8b7e8"
       }
     },
     {
       "name": "Markup Bold",
-      "scope": [
-        "markup.bold"
-      ],
+      "scope": ["markup.bold"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#a8b7e8"
@@ -236,9 +203,7 @@
     },
     {
       "name": "Markup Italic",
-      "scope": [
-        "markup.italic"
-      ],
+      "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#a8b7e8"
@@ -246,10 +211,7 @@
     },
     {
       "name": "Markup Link",
-      "scope": [
-        "string.other.link",
-        "markup.underline.link"
-      ],
+      "scope": ["string.other.link", "markup.underline.link"],
       "settings": {
         "foreground": "#f1b07a",
         "fontStyle": "underline"

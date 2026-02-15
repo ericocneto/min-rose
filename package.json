@@ -1,6 +1,6 @@
 {
-  "name": "code-vampire",
-  "displayName": "code-vampire",
+  "name": "Min Rosé",
+  "displayName": "minrose",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "code vampire",
+        "label": "minrose",
         "uiTheme": "vs-dark",
-        "path": "./themes/code vampire-color-theme.json"
+        "path": "./themes/minrose.json"
       }
     ]
   }
