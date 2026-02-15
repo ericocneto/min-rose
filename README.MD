@@ -1,6 +1,6 @@
 # 🌸 Min Rosé — VS Code Theme
 
-**Min Rosé** is a Visual Studio Code theme inspired in Min THeme and Rosé Piné color palette.
+**Min Rosé** is a Visual Studio Code theme inspired by the Min Theme and the Rosé Pine color palette.
 
 ## ✨ Overview
 
@@ -12,6 +12,6 @@
 2. Go to **Extensions**
 3. Search for: `Min Rosé`
 4. Click **Install**
-5. Enjoy our theme ^^
+5. Enjoy the theme ^^
 
 ---
