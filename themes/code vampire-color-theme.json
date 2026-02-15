@@ -1,7 +1,7 @@
 {
   "name": "code vampire",
   "colors": {
-    "editor.background": "#282a36",
+    "editor.background": "#1c1d26",
     "editor.foreground": "#f8f8f2",
     "editorLineNumber.foreground": "#6272a4",
     "editorLineNumber.activeForeground": "#f8f8f2",
@@ -21,7 +21,7 @@
     "activityBar.foreground": "#f8f8f2",
     "activityBarBadge.background": "#bd93f9",
     "activityBarBadge.foreground": "#f8f8f2",
-    "sideBar.background": "#21222c",
+    "sideBar.background": "#14151b",
     "sideBar.foreground": "#f8f8f2",
     "sideBarTitle.foreground": "#f8f8f2",
     "sideBarSectionHeader.background": "#282a36",
