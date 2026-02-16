@@ -5,6 +5,7 @@
 ## ✨ Overview
 
 ![Screenshot](images/screenshot.png)
+*A refined theme where elegance meets simplicity.*
 
 ## 📦 Installation
 

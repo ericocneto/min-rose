@@ -4,7 +4,11 @@
   "icon": "images/icon.png",
   "displayName": "Min Rosé",
   "description": "",
-  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericocneto/min-rose.git"
+  },
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.0.0"
   },
