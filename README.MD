@@ -4,6 +4,8 @@
 
 ## ✨ Overview
 
+![Screenshot](images/screenshot.png)
+
 ## 📦 Installation
 
 ### From the Marketplace
