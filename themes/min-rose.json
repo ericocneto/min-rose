@@ -32,6 +32,7 @@
     "titleBar.activeForeground": "#e9e4f5",
     "panel.background": "#201a2c",
     "panel.border": "#171422",
+    "editorGroupHeader.tabsBackground": "#201a2c",
     "tab.activeBackground": "#2b243a",
     "tab.inactiveBackground": "#201a2c",
     "tab.activeForeground": "#f3f1f8",
